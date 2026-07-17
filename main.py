@@ -12,3 +12,5 @@ qr.add_data(url)
 
 # creating an image object for the QR code
 img = qr.make_image()
+
+# to save the image in the specified file path
