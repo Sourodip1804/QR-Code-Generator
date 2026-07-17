@@ -14,3 +14,6 @@ qr.add_data(url)
 img = qr.make_image()
 
 # to save the image in the specified file path
+img.save(file_path)
+
+print("QR code was generated and saved successfully at:", file_path)
