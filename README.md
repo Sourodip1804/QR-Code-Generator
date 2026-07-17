@@ -72,7 +72,7 @@ After entering the URL, the QR code will be generated and saved to the specified
 Enter the URL to generate QR code: https://github.com
 
 QR code was generated and saved successfully at:
-C:\Users\kouli\OneDrive\Desktop\sourodip engineering\qrcode.png
+C:\Users\user\OneDrive\Desktop\folder name\qrcode.png
 ```
 
 ## 💻 Code Overview
