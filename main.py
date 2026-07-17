@@ -9,3 +9,5 @@ qr = qrcode.QRCode()
 
 # adding data to the object
 qr.add_data(url)
+
+# creating an image object for the QR code
