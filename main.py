@@ -3,7 +3,7 @@ import qrcode
 # required_libraries = ["qrcode"]
 
 url =input("Enter the URL to generate QR code: ")
-file_path = "C:\\Users\\user\\OneDrive\\Desktop\\["folder name"]\\qrcode.png"
+file_path = "C:\\Users\\user\\OneDrive\\Desktop\\[folder name]\\qrcode.png"
 
 # creating a object for the QR code
 
