@@ -8,3 +8,4 @@ file_path = "C:\\Users\\kouli\\OneDrive\\Desktop\\sourodip engineering\\qrcode.p
 qr = qrcode.QRCode()
 
 # adding data to the object
+qr.add_data(url)
