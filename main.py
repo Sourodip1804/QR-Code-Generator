@@ -11,3 +11,4 @@ qr = qrcode.QRCode()
 qr.add_data(url)
 
 # creating an image object for the QR code
+img = qr.make_image()
