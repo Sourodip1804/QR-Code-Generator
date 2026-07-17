@@ -6,3 +6,5 @@ file_path = "C:\\Users\\kouli\\OneDrive\\Desktop\\sourodip engineering\\qrcode.p
 # creating a object for the QR code
 
 qr = qrcode.QRCode()
+
+# adding data to the object
